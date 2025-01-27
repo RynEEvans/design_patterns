@@ -1,0 +1,71 @@
+Welcome to Fun Collegiate's Student Gov Poll
+
+Current Tallies:
+Jim Roberts: First(2), Second(1), Third(1)
+Cindy Smith: First(0), Second(2), Third(2)
+Joy Lynn: First(2), Second(1), Third(1)
+
+Current Percent of Votes:
+Jim Roberts 40.00%
+Cindy Smith 20.00%
+Joy Lynn 40.00%
+
+Current Tallies:
+Jim Roberts: First(2), Second(3), Third(3)
+Cindy Smith: First(2), Second(3), Third(3)
+Joy Lynn: First(4), Second(2), Third(2)
+
+Current Percent of Votes:
+Jim Roberts 30.00%
+Cindy Smith 30.00%
+Joy Lynn 40.00%
+
+Current Tallies:
+Jim Roberts: First(4), Second(4), Third(4)
+Cindy Smith: First(3), Second(6), Third(3)
+Joy Lynn: First(5), Second(2), Third(5)
+
+Current Percent of Votes:
+Jim Roberts 33.33%
+Cindy Smith 32.50%
+Joy Lynn 34.17%
+
+Current Tallies:
+Jim Roberts: First(7), Second(5), Third(4)
+Cindy Smith: First(3), Second(8), Third(5)
+Joy Lynn: First(6), Second(3), Third(7)
+
+Current Percent of Votes:
+Jim Roberts 38.13%
+Cindy Smith 29.37%
+Joy Lynn 32.50%
+
+Current Tallies:
+Jim Roberts: First(9), Second(6), Third(5)
+Cindy Smith: First(5), Second(9), Third(6)
+Joy Lynn: First(6), Second(5), Third(9)
+
+Current Percent of Votes:
+Jim Roberts 38.50%
+Cindy Smith 31.50%
+Joy Lynn 30.00%
+
+Current Tallies:
+Jim Roberts: First(11), Second(7), Third(6)
+Cindy Smith: First(6), Second(11), Third(7)
+Joy Lynn: First(7), Second(6), Third(11)
+
+Current Percent of Votes:
+Jim Roberts 38.75%
+Cindy Smith 31.67%
+Joy Lynn 29.58%
+
+Current Tallies:
+Jim Roberts: First(14), Second(8), Third(6)
+Cindy Smith: First(7), Second(14), Third(7)
+Joy Lynn: First(7), Second(6), Third(15)
+
+Current Percent of Votes:
+Jim Roberts 40.71%
+Cindy Smith 32.50%
+Joy Lynn 26.79%

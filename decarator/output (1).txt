@@ -1,0 +1,13 @@
+Welcome to our password generator program
+
+Enter a phrase: I Heart Tacos
+
+Easy Password: I-Heart-Tacos41
+
+Pallendrome Password: I-Heart-Tacos4114socaT-traeH-I
+
+Replacing Symbols: I-H3@r7-T@c0$4114$0c@T-7r@3H-I
+
+Random Casing: i-H3@R7-T@C0$4114$0c@t-7r@3H-I
+
+Adding Special Characters: i*-h3@r7-}t@%c0$4.1%14$0{c@t-7*r@3H+-i!

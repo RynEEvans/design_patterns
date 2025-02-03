@@ -5,6 +5,10 @@
 
 public class EasyPassword extends Password {
 
+    /**
+     * Replaces spaces in password with "-"
+     * @param phrase the password that is changed
+     */
 	public EasyPassword(String phrase) {
 		password = phrase;
         String[] word = phrase.split(" ");
@@ -16,6 +20,10 @@ public class EasyPassword extends Password {
         }
 	}
     
+    /**
+     * Returns the password
+     * @return the password
+     */
     public String getPassword() {
         return password;
     }

@@ -3,6 +3,8 @@
  * @author Ryan Evans
  */
 
+import java.util.Random;
+
 public class EasyPassword extends Password {
 
     /**
@@ -10,14 +12,7 @@ public class EasyPassword extends Password {
      * @param phrase the password that is changed
      */
 	public EasyPassword(String phrase) {
-		password = phrase;
-        String[] word = phrase.split(" ");
-
-        for(int i = 0; i < word.length; i++){
-            if(word[i] == " ") {
-                word[i] = "-";
-            }
-        }
+        this.password = phrase.replace(" ", "-") + new Random().nextInt(101);
 	}
     
     /**

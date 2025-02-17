@@ -11,6 +11,9 @@ public class MathGame {
     private static MathGame mathGame;
     private ArrayList<Question> questions;
         
+    /**
+     * Constructor for MathGame
+     */
     private MathGame() {
         questions = new ArrayList<Question>();
         for(int i = 0; i < NUM_QUESTIONS; i++) {
@@ -18,6 +21,10 @@ public class MathGame {
         }
     }
     
+    /**
+     * Get the instance of MathGame
+     * @return instance of MathGame
+     */
     public static MathGame getInstance() {
         if(mathGame == null){
             mathGame = new MathGame();
@@ -25,6 +32,10 @@ public class MathGame {
         return mathGame;
     }
 
+    /**
+     * Get the iterator for the questions
+     * @return iterator for the questions
+     */
     public Iterator<Question> getIterator() {
         return questions.iterator();
     }

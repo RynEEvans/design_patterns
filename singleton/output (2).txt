@@ -1,0 +1,17 @@
+Let's have fun with Math!
+17 - 1 = 16
+33 - 80 = 
+Invalid data
+5
+9 - 8 = 1
+51 + 13 = 64
+96 * 73 = 9
+
+Results:
+ 17 - 1 = 16
+ 33 - 80 = -47 You answered 5
+ 9 - 8 = 1
+ 51 + 13 = 64
+ 96 * 73 = 7008 You answered 9
+
+Total: 3/5

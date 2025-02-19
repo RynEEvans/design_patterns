@@ -38,12 +38,25 @@ public class Flight {
     @Override
     public String toString() {
         String flightInfo = from + " to " + to + " " + startTime + " - " + endTime;
-        if (numTransfers == 0) {
-            return flightNum + " Direct Flight: " + flightInfo;
-        } else if (numTransfers == 1) {
-            return flightNum + " Flight with " + numTransfers + " transfers: " + flightInfo;
+        int hours = endTime.getHour() - startTime.getHour();
+        int minutes = endTime.getMinute() - startTime.getMinute();
+        if(from instanceof Airport && to instanceof Airport){
+            if (minutes < 0) {
+                hours--;
+                minutes += 60;
+            }
+            String flightDuration = " (" + hours + "h " + minutes + "m) ";
+            if (numTransfers == 0) {
+                return flightInfo + flightDuration + "Direct Flight";
+            } else if (numTransfers == 1) {
+                return flightInfo + flightDuration + numTransfers + " Stopover";
+            } else if (numTransfers > 1) {
+                return flightInfo + flightDuration + numTransfers + " Transfers";
+            } else {
+                return "Invalid:";
+            }
         } else {
-            return flightNum + " " + numTransfers + " Transfers";
-        }
+            return "Must enter valid airport codes.";
+        } 
     }
 }

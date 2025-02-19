@@ -1,0 +1,16 @@
+Enter Origin Airport Code: CLT
+Enter Destination Airport Code: SEA
+
+  CLT to SEA 10:15 - 15:10 (4h 55m) Direct Flight
+  CLT to SEA 12:15 - 17:10 (4h 55m) Direct Flight
+  CLT to SEA 14:15 - 18:10 (3h 55m) Direct Flight
+  CLT to SEA 10:01 - 22:10 (12h 9m) 2 Transfers
+  CLT to SEA 06:01 - 14:00 (7h 59m) 1 Stopover
+  CLT to SEA 08:01 - 23:19 (15h 18m) 2 Transfers
+
+
+  Invalid:
+
+Enter Origin Airport Code: sdd 
+Enter Destination Airport Code: dfs
+Must enter valid airport codes

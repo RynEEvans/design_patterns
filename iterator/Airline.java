@@ -1,6 +1,6 @@
 
 /**
- * Software Engineering Portia Plante
+ * Makes an Airline object that holds a title and a list of flights.
  * @author by Ryan Evans
  */
 

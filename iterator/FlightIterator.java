@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 
 /**
- * Software Engineering Portia Plante
+ * Makes an iterator that iterates over a list of flights from airport to airport.
  * @author by Ryan Evans
  */
 

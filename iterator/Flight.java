@@ -1,7 +1,7 @@
 import java.time.LocalTime;
 
 /**
- * Software Engineering Portia Plante
+ * Makes a Flight that has a number, origin, destination, start time, end time, and number of transfers.
  * @author by Ryan Evans
  */
 
